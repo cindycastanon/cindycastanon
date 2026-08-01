@@ -3,7 +3,9 @@
 
 I'm a Computer Science student at the University of South Florida with a passion for software engineering, AI, and full-stack development. I enjoy building applications from the ground up, learning new technologies, and solving real-world problems through code.
 
+
 ## 🚀 Featured Projects
+
 
 ### 🧠 PersonalityAI
 
@@ -18,6 +20,7 @@ An AI-powered web application that predicts MBTI personality types from user-wri
 * Feedback system
 
 🔗 Live Demo: (https://personality-ai-fullstack.vercel.app/)
+
 🔗 Repository: (https://github.com/cindycastanon/personality-ai-fullstack)
 
 
@@ -34,6 +37,7 @@ A full-stack marketplace for USF students to buy, sell, and rent project kits an
 📱 Responsive interface for desktop and mobile devices
 
 🔗 Live Demo: (https://bullshub.vercel.app/)
+
 🔗 Repository: https://github.com/cindycastanon/bullsmarketplace
 
 <!--### ✈️ Voyage
@@ -57,6 +61,7 @@ An AI-assisted healthcare application that classifies skin lesions from uploaded
 * AI-powered predictions
 * Voice accessibility
 * Responsive interface
+  
 
 ## 💻 Tech Stack
 
@@ -70,12 +75,14 @@ An AI-assisted healthcare application that classifies skin lesions from uploaded
 
 **Tools:** Docker, Git, GitHub, AWS, PyTorch
 
+
 ## 🌱 Currently Learning
 
 * Data Structures & Algorithms
 * System Design
 * AWS & Cloud Computing
 * Scalable backend development
+  
 
 ## 🤝 Let's Connect
 
