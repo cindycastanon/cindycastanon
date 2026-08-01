@@ -3,7 +3,7 @@
 I'm Cindy Castanon, a Computer Science student at the **University of South Florida** passionate about building full-stack applications and AI-powered software. I enjoy turning ideas into products that solve real problems, and I'm always looking for opportunities to learn, build, and collaborate.
 
 🌐 **Portfolio:** https://your-portfolio.com
-💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
+💼 **LinkedIn:** [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/cindy-castanon/)
 📧 **Email:** (cindycastanon@hotmail.com)
 
 ---
