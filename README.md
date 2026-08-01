@@ -4,7 +4,7 @@ I'm Cindy Castanon, a Computer Science student at the **University of South Flor
 
 🌐 **Portfolio:** https://your-portfolio.com
 
-💼 **LinkedIn:** [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/cindy-castanon/)
+💼 **LinkedIn:** (https://www.linkedin.com/in/cindy-castanon/)
 
 📧 **Email:** (cindycastanon@hotmail.com)
 
