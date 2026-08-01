@@ -1,53 +1,13 @@
-# Hi there,
 
-I'm Cindy Castanon, a Computer Science student at the **University of South Florida** passionate about building full-stack applications and AI-powered software. I enjoy turning ideas into products that solve real problems, and I'm always looking for opportunities to learn, build, and collaborate.
+# Hi, I'm Cindy! 👋
 
-🌐 **Portfolio:** https://your-portfolio.com
-
-💼 **LinkedIn:** (https://www.linkedin.com/in/cindy-castanon/)
-
-📧 **Email:** (cindycastanon@hotmail.com)
-
----
-
-## 👩‍💻 About Me
-
-I'm a Computer Science student with experience in **full-stack development, machine learning, and computer vision**. I enjoy working across the entire development process—from designing user interfaces to building backend APIs and training machine learning models.
-
-Currently, I'm focused on strengthening my software engineering skills while building projects with **React, Next.js, Flask, PostgreSQL, Docker, and PyTorch**.
-
----
-
-## 💼 Experience
-
-### Software Engineer Intern | Clearset.AI
-
-* Built and enhanced production features using **Next.js, React, TypeScript, and Node.js**
-* Developed frontend components and backend services for customer workflows
-* Built a contact routing system with validation, API integration, and email routing
-* Collaborated with engineers to ship production-ready features
-
-### Machine Learning Fellow | Snowflake
-
-* Developed machine learning solutions to improve healthcare accessibility
-* Trained and optimized predictive models using **Python, MLflow, and Optuna**
-* Analyzed healthcare and geographic datasets to identify underserved communities
-
-### Undergraduate Research Assistant | USF Computer Vision Lab
-
-* Conducted research in computer vision using **PyTorch**
-* Built image classification and anomaly detection models
-* Contributed to research focused on healthy aging
-
----
+I'm a Computer Science student at the University of South Florida with a passion for software engineering, AI, and full-stack development. I enjoy building applications from the ground up, learning new technologies, and solving real-world problems through code.
 
 ## 🚀 Featured Projects
 
 ### 🧠 PersonalityAI
 
-A full-stack web application that predicts MBTI personality types using a custom PyTorch model.
-
-**Tech Stack:** Next.js • TypeScript • Flask • PostgreSQL • SQLAlchemy • Docker • PyTorch
+An AI-powered web application that predicts MBTI personality types from user-written text. Built with a Next.js frontend, Flask REST API, PostgreSQL database, and a PyTorch machine learning model. Users can create accounts, view prediction history, and manage their results.
 
 **Features**
 
@@ -60,13 +20,36 @@ A full-stack web application that predicts MBTI personality types using a custom
 🔗 Live Demo: (https://personality-ai-fullstack.vercel.app/)
 🔗 Repository: (https://github.com/cindycastanon/personality-ai-fullstack)
 
+
 ---
 
-### 🩺 Jarvis Healthcare
+### 🛒 BullsMarketplace
 
-AI-powered skin lesion classification application using computer vision.
+A full-stack marketplace for USF students to buy, sell, and rent project kits and academic supplies. Users can create listings, browse available items, update or remove their posts, and manage inventory through a responsive web interface backed by a Flask API and SQL database.
 
-**Tech Stack:** Next.js • Flask • PostgreSQL • PyTorch • YOLOv8
+📝 Create, edit, and delete marketplace listings
+🔍 Browse and search available items
+💾 Persistent storage with a SQL database
+🔗 RESTful Flask API for managing marketplace data
+📱 Responsive interface for desktop and mobile devices
+
+🔗 Live Demo: (https://bullshub.vercel.app/)
+🔗 Repository: https://github.com/cindycastanon/bullsmarketplace
+
+<!--### ✈️ Voyage
+
+A modern travel planning platform that helps users organize trips, discover destinations, and manage travel itineraries through an intuitive interface. Designed with a focus on clean UI, responsive design, and a smooth user experience.
+
+🔗 **Live Demo:** https://your-demo-link
+💻 **Repository:** https://github.com/yourusername/voyage
+
+--->
+
+### 🩺 Jarvis
+
+An AI-assisted healthcare application that classifies skin lesions from uploaded images using deep learning. The project combines a Next.js frontend, Flask backend, PostgreSQL database, and PyTorch computer vision models to provide fast, accessible predictions.
+
+🔗 Repository: (https://github.com/cindycastanon/jarvis-healthcare)
 
 **Features**
 
@@ -75,84 +58,32 @@ AI-powered skin lesion classification application using computer vision.
 * Voice accessibility
 * Responsive interface
 
-🔗 Repository: *your GitHub repo*
+## 💻 Tech Stack
 
----
+**Languages:** Python, TypeScript, JavaScript, Java, SQL
 
-### 🛒 Bulls Marketplace
+**Frontend:** React, Next.js, HTML, CSS
 
-Marketplace platform that allows students to buy, sell, and lease project kits.
+**Backend:** Flask, Node.js, REST APIs
 
-**Tech Stack:** Flask • SQL • HTML • CSS • JavaScript
+**Databases:** PostgreSQL, MySQL
 
-🔗 Live Demo: (https://bullshub.vercel.app/)
-🔗 Repository: https://github.com/cindycastanon/bullsmarketplace
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-* Python
-* Java
-* JavaScript
-* TypeScript
-* SQL
-* C++
-
-**Frontend**
-
-* React
-* Next.js
-* HTML
-* CSS
-
-**Backend**
-
-* Flask
-* Node.js
-* REST APIs
-* SQLAlchemy
-
-**Databases**
-
-* PostgreSQL
-
-**Machine Learning**
-
-* PyTorch
-* MLflow
-* Optuna
-* YOLOv8
-* GeoPandas
-
-**Tools**
-
-* Git & GitHub
-* Docker
-* Postman
-* VS Code
-
----
+**Tools:** Docker, Git, GitHub, AWS, PyTorch
 
 ## 🌱 Currently Learning
 
-* Data Structures & Algorithms 
-* Advanced React & Next.js
+* Data Structures & Algorithms
 * System Design
-* AWS & Cloud Development
+* AWS & Cloud Computing
+* Scalable backend development
 
----
+## 🤝 Let's Connect
 
-## 📫 Let's Connect
+<!--🌐 **Portfolio:** https://your-portfolio.com -->
 
-I'm always excited to connect with other developers and learn from new experiences. If you'd like to collaborate, chat about software engineering, or discuss opportunities, feel free to reach out!
+💼 **LinkedIn:** (https://www.linkedin.com/in/cindy-castanon/)
 
-* 🌐 Portfolio: https://your-portfolio.com
-* 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-
+📧 **Email:** (cindycastanon@hotmail.com)
 
 <!--
 **cindycastanon/cindycastanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
