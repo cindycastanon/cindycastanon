@@ -57,8 +57,8 @@ A full-stack web application that predicts MBTI personality types using a custom
 * Analytics dashboard
 * Feedback system
 
-🔗 Live Demo: *your deployment link*
-🔗 Repository: *your GitHub repo*
+🔗 Live Demo: (https://personality-ai-fullstack.vercel.app/)
+🔗 Repository: (https://github.com/cindycastanon/personality-ai-fullstack)
 
 ---
 
