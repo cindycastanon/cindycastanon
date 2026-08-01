@@ -137,7 +137,7 @@ Marketplace platform that allows students to buy, sell, and lease project kits.
 
 ## 🌱 Currently Learning
 
-* Data Structures & Algorithms (NeetCode 150)
+* Data Structures & Algorithms 
 * Advanced React & Next.js
 * System Design
 * AWS & Cloud Development
