@@ -85,7 +85,8 @@ Marketplace platform that allows students to buy, sell, and lease project kits.
 
 **Tech Stack:** Flask • SQL • HTML • CSS • JavaScript
 
-🔗 Repository: *your GitHub repo*
+🔗 Live Demo: (https://bullshub.vercel.app/)
+🔗 Repository: https://github.com/cindycastanon/bullsmarketplace
 
 ---
 
