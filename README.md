@@ -3,6 +3,7 @@
 
 I'm a Computer Science student at the University of South Florida with a passion for software engineering, AI, and full-stack development. I enjoy building applications from the ground up, learning new technologies, and solving real-world problems through code.
 
+My Portfolio: https://cindycastanon.github.io/my-portfolio/
 
 ## 🚀 Featured Projects
 
